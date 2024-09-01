@@ -10,9 +10,9 @@ const formatDate = (date) =>
     year: "numeric",
   }).format(new Date(date));
 
-function cityItem({ city }) {
+function CityItem({ city }) {
   const { currentCity } = useCities();
-  const { citiName, emoji, date, id, position } = city;
+  const { cityName, emoji, date, id, position } = city;
 
   return (
     <li>
@@ -23,7 +23,7 @@ function cityItem({ city }) {
         to={`${id}?lat=${position.lat}&lng=${position.lng}`}
       >
         <span className={styles.emoji}>{flagemojiToPNG(emoji)}</span>
-        <h3 className={styles.name}>{citiName}</h3>
+        <h3 className={styles.name}>{cityName}</h3>
         <time className={styles.date}>({formatDate(date)})</time>
         <button className={styles.deleteBtn}>&times;</button>
       </Link>
@@ -31,4 +31,4 @@ function cityItem({ city }) {
   );
 }
 
-export default cityItem;
+export default CityItem;
