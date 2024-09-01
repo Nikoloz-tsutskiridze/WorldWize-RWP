@@ -17,7 +17,7 @@ import { useUrlPosition } from "../../hooks/useUrlPosition";
 
 function Map() {
   const { cities } = useCities();
-  const [mapPosition, setMapPosition] = useState([40, 0]);
+  const [mapPosition, setMapPosition] = useState([41.8, 45]);
   const [searchParams] = useSearchParams();
   const {
     isLoading: isLoadingPosition,
@@ -52,7 +52,7 @@ function Map() {
       )}
       <MapContainer
         center={mapPosition}
-        zoom={9}
+        zoom={7}
         scrollWheelZoom={true}
         className={styles.map}
       >

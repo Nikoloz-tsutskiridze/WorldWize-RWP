@@ -1,18 +1,6 @@
 {
   "cities": [
     {
-      "cityName": "Lisbon",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
-      "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
-      },
-      "id": 73930385
-    },
-    {
       "cityName": "Madrid",
       "country": "Spain",
       "emoji": "🇪🇸",
@@ -37,28 +25,184 @@
       "id": 98443197
     },
     {
+      "cityName": "Ghan",
+      "country": "Australia",
+      "emoji": "🇦🇺",
+      "date": "2024-09-01T15:01:55.448Z",
+      "notes": "",
+      "position": {
+        "lat": "-25.20494115356912",
+        "lng": "135.30761718750003"
+      },
+      "id": 98443200
+    },
+    {
+      "cityName": "Castello de la Plana",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-01T15:31:46.503Z",
+      "notes": "",
+      "position": {
+        "lat": "39.97501535728991",
+        "lng": "-0.024719238281250003"
+      },
+      "id": 98443201
+    },
+    {
+      "cityName": "Porreres",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-01T15:33:17.105Z",
+      "notes": "",
+      "position": {
+        "lat": "39.53793974517628",
+        "lng": "3.0541992187500004"
+      },
+      "id": 98443202
+    },
+    {
+      "cityName": "Rezzo",
+      "country": "Italy",
+      "emoji": "🇮🇹",
+      "date": "2024-09-01T15:33:33.545Z",
+      "notes": "",
+      "position": {
+        "lat": "44.03232064275084",
+        "lng": "7.811279296875001"
+      },
+      "id": 98443203
+    },
+    {
+      "cityName": "Castillo de Villamalefa",
+      "country": "Spain",
+      "emoji": "🇪🇸",
+      "date": "2024-09-01T16:01:41.720Z",
+      "notes": "",
+      "position": {
+        "lat": "40.12639098502455",
+        "lng": "-0.3900146484375"
+      },
+      "id": 98443204
+    },
+    {
+      "cityName": "Glarus",
+      "country": "Switzerland",
+      "emoji": "🇨🇭",
+      "date": "2024-09-01T16:01:48.326Z",
+      "notes": "",
+      "position": {
+        "lat": "46.98025235521883",
+        "lng": "8.942871093750002"
+      },
+      "id": 98443205
+    },
+    {
+      "cityName": "Ogre",
+      "country": "Latvia",
+      "emoji": "🇱🇻",
+      "date": "2024-09-01T16:01:58.035Z",
+      "notes": "",
+      "position": {
+        "lat": "56.84897198026975",
+        "lng": "24.521484375000004"
+      },
+      "id": 98443207
+    },
+    {
       "cityName": "Tbilisi",
       "country": "Georgia",
       "emoji": "🇬🇪",
-      "date": "2024-09-01T14:53:03.255Z",
+      "date": "2024-09-01T16:10:00.890Z",
       "notes": "",
       "position": {
-        "lat": "41.68316883525893",
-        "lng": "44.8077392578125"
+        "lat": "41.695050505269734",
+        "lng": "44.880437850952156"
       },
-      "id": 98443198
+      "id": 98443208
     },
     {
-      "cityName": "South Slave Region",
-      "country": "Canada",
-      "emoji": "🇨🇦",
-      "date": "2024-09-01T14:53:17.111Z",
+      "cityName": "Tbilisi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-01T16:27:39.253Z",
       "notes": "",
       "position": {
-        "lat": "60.23932726980714",
-        "lng": "-114.59844065787296"
+        "lat": "41.695066527618074",
+        "lng": "44.88044857978821"
       },
-      "id": 98443199
+      "id": 98443209
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-01T16:28:07.547Z",
+      "notes": "",
+      "position": {
+        "lat": "39.842286020743394",
+        "lng": "32.91503906250001"
+      },
+      "id": 98443210
+    },
+    {
+      "cityName": "Sofia",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-09-01T16:28:11.876Z",
+      "notes": "",
+      "position": {
+        "lat": "42.61779143282346",
+        "lng": "23.356933593750004"
+      },
+      "id": 98443211
+    },
+    {
+      "cityName": "Budapest",
+      "country": "Hungary",
+      "emoji": "🇭🇺",
+      "date": "2024-09-01T16:28:15.550Z",
+      "notes": "",
+      "position": {
+        "lat": "47.41322033016904",
+        "lng": "19.072265625000004"
+      },
+      "id": 98443212
+    },
+    {
+      "cityName": "Irdning",
+      "country": "Austria",
+      "emoji": "🇦🇹",
+      "date": "2024-09-01T16:28:17.527Z",
+      "notes": "",
+      "position": {
+        "lat": "47.368594345213374",
+        "lng": "14.216308593750002"
+      },
+      "id": 98443213
+    },
+    {
+      "cityName": "Wavre",
+      "country": "Belgium",
+      "emoji": "🇧🇪",
+      "date": "2024-09-01T16:28:19.513Z",
+      "notes": "",
+      "position": {
+        "lat": "50.736455137010665",
+        "lng": "4.592285156250001"
+      },
+      "id": 98443214
+    },
+    {
+      "cityName": "K’asp’i",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-01T16:53:41.833Z",
+      "notes": "",
+      "position": {
+        "lat": "41.83478149415483",
+        "lng": "44.44793701171875"
+      },
+      "id": 98443215
     }
   ]
 }
