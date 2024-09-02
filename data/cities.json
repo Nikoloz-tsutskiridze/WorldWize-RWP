@@ -203,6 +203,114 @@
         "lng": "44.44793701171875"
       },
       "id": 98443215
+    },
+    {
+      "cityName": "Glenrothes",
+      "country": "United Kingdom of Great Britain and Northern Ireland (the)",
+      "emoji": "🇬🇧",
+      "date": "2024-09-02T16:09:35.377Z",
+      "notes": "",
+      "position": {
+        "lat": "56.17002298293205",
+        "lng": "-3.251953125"
+      },
+      "id": 98443225
+    },
+    {
+      "cityName": "Eyjafjarðarsveit",
+      "country": "Iceland",
+      "emoji": "🇮🇸",
+      "date": "2024-09-02T16:09:39.650Z",
+      "notes": "",
+      "position": {
+        "lat": "65.36683689226321",
+        "lng": "-17.929687500000004"
+      },
+      "id": 98443226
+    },
+    {
+      "cityName": "Nuuk",
+      "country": "Greenland",
+      "emoji": "🇬🇱",
+      "date": "2024-09-02T16:09:47.620Z",
+      "notes": "",
+      "position": {
+        "lat": "70.52489722821655",
+        "lng": "-40.60546875000001"
+      },
+      "id": 98443227
+    },
+    {
+      "cityName": "Ono",
+      "country": "Japan",
+      "emoji": "🇯🇵",
+      "date": "2024-09-02T16:09:59.987Z",
+      "notes": "",
+      "position": {
+        "lat": "35.889050079360935",
+        "lng": "136.75781250000003"
+      },
+      "id": 98443228
+    },
+    {
+      "cityName": "Madaripur",
+      "country": "Bangladesh",
+      "emoji": "🇧🇩",
+      "date": "2024-09-02T16:10:10.173Z",
+      "notes": "",
+      "position": {
+        "lat": "23.261534167651845",
+        "lng": "90.12084960937501"
+      },
+      "id": 98443229
+    },
+    {
+      "cityName": "Gori",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-02T16:39:58.203Z",
+      "notes": "",
+      "position": {
+        "lat": "42.05745022024682",
+        "lng": "44.088134765625"
+      },
+      "id": 98443230
+    },
+    {
+      "cityName": "Kareli",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-02T20:42:00.423Z",
+      "notes": "",
+      "position": {
+        "lat": "41.87774145109676",
+        "lng": "43.824462890625"
+      },
+      "id": 98443231
+    },
+    {
+      "cityName": "Zugdidi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-02T20:42:04.662Z",
+      "notes": "",
+      "position": {
+        "lat": "42.53689200787317",
+        "lng": "41.85791015625001"
+      },
+      "id": 98443232
+    },
+    {
+      "cityName": "Gulrip’shi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-02T20:55:16.832Z",
+      "notes": "",
+      "position": {
+        "lat": "43.13306116240615",
+        "lng": "41.22070312500001"
+      },
+      "id": 98443233
     }
   ]
 }

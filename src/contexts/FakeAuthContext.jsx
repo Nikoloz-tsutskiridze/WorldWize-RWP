@@ -25,7 +25,7 @@ const FAKE_USER = {
   avatar: "https://i.pravatar.cc/100?u=zz",
 };
 
-function AuthProvider({ childred }) {
+function AuthProvider({ children }) {
   const [{ user, isAuthenticated }, dispatch] = useReducer(
     reducer,
     initialState
@@ -42,7 +42,7 @@ function AuthProvider({ childred }) {
 
   return (
     <AuthContext.Provider value={{ user, isAuthenticated, login, logout }}>
-      {childred}
+      {children}
     </AuthContext.Provider>
   );
 }
@@ -51,6 +51,7 @@ function useAuth() {
   const context = useContext(AuthContext);
   if (context === undefined)
     throw new Error("AuthContext was used outside AuthProvider");
+  return context;
 }
 
 export { AuthProvider, useAuth };
