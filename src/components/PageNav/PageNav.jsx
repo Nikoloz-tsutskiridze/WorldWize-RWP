@@ -9,13 +9,13 @@ function PageNav() {
 
       <ul>
         <li>
-          <NavLink to="pricing">Pricing</NavLink>
+          <NavLink to="/pricing">Pricing</NavLink>
         </li>
         <li>
-          <NavLink to="product">Product</NavLink>
+          <NavLink to="/product">Product</NavLink>
         </li>
         <li>
-          <NavLink to="Login" className={styles.ctaLink}>
+          <NavLink to="/login" className={styles.ctaLink}>
             Login
           </NavLink>
         </li>

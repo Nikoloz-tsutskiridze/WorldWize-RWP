@@ -311,6 +311,162 @@
         "lng": "41.22070312500001"
       },
       "id": 98443233
+    },
+    {
+      "cityName": "Kareli",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-07T19:49:28.494Z",
+      "notes": "",
+      "position": {
+        "lat": "42.02481360781777",
+        "lng": "43.85742187500001"
+      },
+      "id": 98443234
+    },
+    {
+      "cityName": "Sokhumi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-07T19:49:32.250Z",
+      "notes": "",
+      "position": {
+        "lat": "43.18915769654922",
+        "lng": "41.06689453125"
+      },
+      "id": 98443235
+    },
+    {
+      "cityName": "Kastamonu",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-07T19:49:58.319Z",
+      "notes": "",
+      "position": {
+        "lat": "41.1290213474951",
+        "lng": "33.91479492187501"
+      },
+      "id": 98443236
+    },
+    {
+      "cityName": "Ankara",
+      "country": "Turkiye",
+      "emoji": "🇹🇷",
+      "date": "2024-09-07T20:00:56.128Z",
+      "notes": "",
+      "position": {
+        "lat": "39.842286020743394",
+        "lng": "32.82714843750001"
+      },
+      "id": 98443240
+    },
+    {
+      "cityName": "Sofia",
+      "country": "Bulgaria",
+      "emoji": "🇧🇬",
+      "date": "2024-09-07T20:01:48.091Z",
+      "notes": "",
+      "position": {
+        "lat": "42.65012181368025",
+        "lng": "23.291015625000004"
+      },
+      "id": 98443241
+    },
+    {
+      "cityName": "Kareli",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-07T20:04:16.486Z",
+      "notes": "",
+      "position": {
+        "lat": "41.96765920367816",
+        "lng": "43.86840820312501"
+      },
+      "id": 98443242
+    },
+    {
+      "cityName": "Kareli",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-07T20:20:23.446Z",
+      "notes": "",
+      "position": {
+        "lat": "42.13082130188811",
+        "lng": "43.780517578125"
+      },
+      "id": 98443243
+    },
+    {
+      "cityName": "Kutaisi",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-07T20:48:39.127Z",
+      "notes": "",
+      "position": {
+        "lat": "42.25291778330197",
+        "lng": "42.71484375000001"
+      },
+      "id": 98443244
+    },
+    {
+      "cityName": "Taragt",
+      "country": "Mongolia",
+      "emoji": "🇲🇳",
+      "date": "2024-09-07T20:52:42.289Z",
+      "notes": "",
+      "position": {
+        "lat": "46.255846818480315",
+        "lng": "102.34863281250001"
+      },
+      "id": 98443245
+    },
+    {
+      "cityName": "Aqmol",
+      "country": "Kazakhstan",
+      "emoji": "🇰🇿",
+      "date": "2024-09-07T20:52:59.370Z",
+      "notes": "",
+      "position": {
+        "lat": "50.84757295365389",
+        "lng": "71.10351562500001"
+      },
+      "id": 98443246
+    },
+    {
+      "cityName": "Mtskheta",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-18T20:19:40.572Z",
+      "notes": "",
+      "position": {
+        "lat": "41.88592102814744",
+        "lng": "44.60449218750001"
+      },
+      "id": 98443247
+    },
+    {
+      "cityName": "Vladesti",
+      "country": "Romania",
+      "emoji": "🇷🇴",
+      "date": "2024-09-18T20:19:56.215Z",
+      "notes": "",
+      "position": {
+        "lat": "45.182036837015886",
+        "lng": "24.9609375"
+      },
+      "id": 98443248
+    },
+    {
+      "cityName": "Gori",
+      "country": "Georgia",
+      "emoji": "🇬🇪",
+      "date": "2024-09-18T20:23:46.648Z",
+      "notes": "",
+      "position": {
+        "lat": "41.97582726102573",
+        "lng": "44.24194335937501"
+      },
+      "id": 98443249
     }
   ]
 }
